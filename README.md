@@ -19,6 +19,6 @@ This is a comprehensive **Bank Management System** developed as part of my journ
 
 ### 📈 Future Roadmap (Upcoming Updates):
 I am currently working on enhancing this system with the following features:
-- [ ] **Feature 1:** Transaction Menu (Deposit/Withdraw/Total Balances).
-- [ ] **Feature 2:** User Login System (Admin/User Permissions).
+- [x] **Feature 1:** Transaction Menu (Deposit/Withdraw/Total Balances).
+- [x] **Feature 2:** User Login System (Admin/User Permissions).
 - [ ] **Feature 3:** Improved Data Encryption for PinCodes.
